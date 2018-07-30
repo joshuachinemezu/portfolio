@@ -6,4 +6,4 @@ My portfolio website.
 
 This repository is for my CV and hosted on github pages
 
-Visit:
+Visit: https://joshuachinemezu.github.io/portfolio/
